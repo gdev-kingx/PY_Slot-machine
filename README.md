@@ -1,5 +1,5 @@
-# This is a Gambling slot machine made using Python
-# Before this I made the same using Javascript
+This is a Gambling slot machine made using Python
+Before this I made the same using Javascript
 
 # Lets see the Steps
 # 1. Deposit some money
@@ -10,4 +10,4 @@
 # 6. give the user their winnings
 # 7. play again
 
-# Guys pls *DO NOT SUPPORT GAMBLING* 
+Guys pls *DO NOT SUPPORT GAMBLING* 
